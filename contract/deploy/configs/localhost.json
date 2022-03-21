@@ -1,0 +1,6 @@
+{
+  "chainName": "loclahost",
+  "fractionalArtERC721VaultFactory":"0x09EB641BA93CfA6340E944a22bDd2F1C8c745A9f",
+  "weth":"0xc778417E063141139Fce010982780140Aa0cD5Ab",
+  "topPartyWallet": "0xbd973A23aB5B70bDDc2d2c3F584859d974eB7709"
+}
